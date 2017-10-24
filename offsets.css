@@ -1,0 +1,30 @@
+.offset-top-30{
+    margin-top: 30px;
+}
+.offset-top-40{
+    margin-top: 40px;
+}
+.offset-bottom-30{
+    margin-bottom: 30px;
+}
+.offset-top-10{
+    margin-top: 10px;
+}
+.offset-top-20{
+    margin-top: 20px;
+}
+/*colors*/
+.gray-border-bottom{
+    border-bottom: 2px solid #ccc;
+}
+.red{
+    background-color:  color:#ff3f40;
+}
+.brown{
+    background-color:  #313030;
+}
+
+/*landing*/
+.center{
+    text-align: center;
+}
